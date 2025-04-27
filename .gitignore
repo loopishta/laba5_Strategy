@@ -1,0 +1,6 @@
+# Исключить папки bin и obj
+bin/
+obj/
+
+# Исключить папку layout
+*.layout
